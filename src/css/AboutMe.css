@@ -1,0 +1,48 @@
+.glass-bg {
+    height: 500px;
+    width: 800px;
+    border-radius: 80px;
+    justify-self: end;
+    margin-top: 40px;
+    margin-right:300px;
+}
+.glass-bg p {
+    color: white;
+    padding-left: 20px;
+    font-size: 22px;
+    width: 900px;
+    margin-left: 40px;
+    padding-top: 30px;
+}
+.glass-bg p div {
+    margin-left: 90px;
+    display: inline;
+}
+.vline {
+    height: 640px;
+    width: 0px;
+    float: left;
+    margin-left: 60px;
+    border-right: 1px solid white;
+}
+.image {
+    float: left;
+    height: 200px;
+    width: 200px;
+    background-color: white;
+    border: 3px solid white;
+    border-radius: 100px;
+    margin-left: 100px;
+    margin-top: 60px;
+}
+.image img {
+    width: 200px;
+    height: 200px;
+    border-radius: 100px;
+}
+.image h3 {
+    margin-top: 40px;
+}
+.image h3, h2 {
+    justify-self: center;
+}

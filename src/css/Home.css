@@ -1,0 +1,38 @@
+.intro {
+    position: fixed;
+    top: 250px;
+    left: 300px;
+}
+.intro h1 {
+    margin: 2px;
+    font-size: 150px;
+}
+.hline {
+    position: fixed;
+    top: 420px;
+    margin-left: 320px;
+    border-bottom: 2px solid white;
+    width: 885px;
+}
+.year1 {
+    position: fixed;
+    top: 450px;
+    margin-left: 520px;
+    width: 100%;
+    font-size: 20px;
+}
+.year2 {
+    position: fixed;
+    top: 450px;
+    text-align: center;
+    margin-left: 200px;
+    width: 100%;
+    font-size: 20px;
+}
+.hr {
+    position: fixed;
+    top: 455px;
+    text-align: center;
+    width: 20%;
+    margin-left: 600px;
+}

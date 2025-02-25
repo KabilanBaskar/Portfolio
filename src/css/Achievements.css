@@ -1,0 +1,45 @@
+.align {
+    /* border: 1px solid white; */
+    width: 900px;
+    height: 600px;
+    margin-left: 200px;
+}
+.align ul {
+    list-style-type: none;
+    width: 100px;
+}
+.align li {
+    position: fixed;
+    top: 180px;
+    border: 3px solid white;
+    background-color: rgba(255, 255, 255, 0.279);
+    text-align: center;
+    padding-top: 40px;
+    height: 70px;
+    width: 200px;
+    border-radius: 100px;
+}
+.align .DSA {
+    position: fixed;
+    top: 180px;
+}
+.align .LL {
+    position: fixed;
+    top: 180px;
+    left : 620px
+}
+.align .SQL {
+    position: fixed;
+    top: 180px;
+    left: 1000px;
+}
+.align .Five {
+    position: fixed;
+    top: 420px;
+    left: 420px;
+}
+.align .Hun {
+    position: fixed;
+    top: 420px;
+    left: 810px;
+}

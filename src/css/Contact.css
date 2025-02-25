@@ -1,0 +1,15 @@
+.content {
+    position: relative;
+    top: 120px;
+    left: 100px;
+}
+.content ul {
+    list-style-type: none;
+}
+.content li {
+    padding: 30px;
+}
+.content li a {
+    text-decoration: none;
+    color: white;
+}

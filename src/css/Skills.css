@@ -1,0 +1,20 @@
+.technicalskills {
+    margin-top: 60px;
+}
+.technicalskills hr {
+    width: 500px;
+}
+.technology {
+    margin-top: 50px;
+    height: 100px;
+    width: 300px;
+    padding-left: 600px;
+}
+.technology .skill {
+    background-color: rgba(255, 255, 255, 0.177);
+     height: 40px;
+     margin: 10px;
+     text-align: center;
+     border-radius: 15px;
+     padding-top: 22px;
+}
